@@ -29,8 +29,11 @@ I am a passionate **AI Generalist** who believes in the power of **"vibe coding"
 
 ### 📊 GitHub Stats
 
-![Farman's GitHub stats](https://github-readme-stats.vercel.app/api?username=farman024&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farman024&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=farman024&show_icons=true&theme=algolia" alt="Farman's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farman024&layout=compact&theme=algolia" alt="Top Langs" />
+</p>
 
 ---
 
