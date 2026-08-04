@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/farman024/farman024/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/farman024/farman024/main/light.svg">
+  <img alt="Farman J." src="https://raw.githubusercontent.com/farman024/farman024/main/light.svg">
+</picture>
+
 # Hi there, I'm Farman J. 😊
 
 ### AI Generalist | Vibe Coder | Innovative Solution Architect
