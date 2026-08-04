@@ -1,12 +1,26 @@
-# Hi there, I'm Farman J. 👋
+# Hi there, I'm Farman J. 😊
 
 ### AI Generalist | Vibe Coder | Innovative Solution Architect
 
-I am a passionate **AI Generalist** who believes in the power of **"vibe coding"**—an intuitive, creative approach to building impactful technology. My work spans across Artificial Intelligence, Web Development, and Productivity Tools, always with a focus on creating seamless, user-centric experiences.
+I am a passionate **AI Generalist** who believes in the power of **"vibe coding"**-an intuitive, creative approach to building impactful technology. My work spans across Artificial Intelligence, Web Development, and Productivity Tools, always with a focus on creating seamless, user-centric experiences.
 
 ---
 
-### 🚀 Featured Projects
+### 🛡️ My ACE Stack
+
+ACE is my AI coding companion — built on a session-persistence protocol that keeps me consistent across every project.
+
+| Capability | Powered By | What It Does |
+| :--- | :--- | :--- |
+| **👁️ Vision** | Gemini API | ACE reads screenshots, logos, and charts through the Gemini Vision API |
+| **🧠 Memory** | `CLAUDE.md` | Session-persistence protocol — restores context at every session start |
+| **📜 Playbook** | `CLOUD.md` | Persistent project history + Alex Hormozi execution playbook |
+
+> *"If AI can automate parts of your job, learn how to do it before someone else does."*
+
+---
+
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -18,7 +32,7 @@ I am a passionate **AI Generalist** who believes in the power of **"vibe coding"
 
 ---
 
-### 🛠️ Core Competencies
+### 💪 Core Competencies
 
 *   **AI & Automation**: Leveraging AI to build intelligent mentors, simulators, and automation bots.
 *   **Web Development**: Crafting responsive, installable Progressive Web Apps (PWAs) with a focus on "terminal" and "dark-site" aesthetics.
@@ -37,7 +51,7 @@ I am a passionate **AI Generalist** who believes in the power of **"vibe coding"
 
 ---
 
-### 📫 Connect with me
+### 🤝 Connect with me
 *   **Instagram**: [@farman_.24._](https://www.instagram.com/farman_.24._/)
 *   **GitHub**: [farman024](https://github.com/farman024)
 
