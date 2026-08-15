@@ -72,8 +72,6 @@ ACE is my AI coding companion — built on a session-persistence protocol that k
 
 ### 🤝 Connect with me
 
-### 🤝 Connect with me
-
 <a href="https://www.instagram.com/farman_.24._/"><img src="https://img.shields.io/badge/Instagram-0B0804?style=for-the-badge&logo=instagram&logoColor=FBBF24&labelColor=0B0804" alt="Instagram"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/farman024"><img src="https://img.shields.io/badge/Portfolio-0B0804?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0B0804" alt="Portfolio"/></a>
