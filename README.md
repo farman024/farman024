@@ -4,46 +4,53 @@
   <img alt="Farman J." src="https://raw.githubusercontent.com/farman024/farman024/main/light.svg">
 </picture>
 
-Hi there, I'm Farman J. 😊
+### Hi, I'm Farman J. 😊
 
-**AI Generalist | Vibe Coder | Innovative Solution Architect**
+**AI Generalist · Vibe Coder · Bangalore**
 
-I am a passionate **AI Generalist** who believes in the power of **"vibe coding"** — an intuitive, creative approach to building impactful technology. My work spans across Artificial Intelligence, Web Development, and Productivity Tools, always with a focus on creating seamless, user-centric experiences.
+No press release here — the honest version:
+
+- I build **small, practical tools**: discipline trackers, trading journals, a download bot, a prayer timer.
+- I build **with AI**: agents, automations, and a companion setup that remembers my projects across sessions.
+- Self-employed, BCA background. Basics from mentors — everything after that, learned from my own mistakes while shipping.
+
+> Currently: building AI agents & automations · shipping PWAs · learning with sheer consistency.
 
 ---
 
-### 🛡️ My ACE Stack
+### 🛡️ How I work with AI
 
-ACE is my AI coding companion — built on a session-persistence protocol that keeps me consistent across every project.
+ACE is my OpenCode agent — my AI coding companion. Not magic, just good memory:
 
-| Capability | Powered By | What It Does |
+| What | Powered by | What it actually does |
 | :-- | :-- | :-- |
-| **👁️ Vision** | Gemini API | ACE reads screenshots, logos, and charts through the Gemini Vision API |
-| **🧠 Memory** | `CLAUDE.md` | Session-persistence protocol — restores context at every session start |
-| **📜 Playbook** | `CLOUD.md` | Persistent project history + Alex Hormozi execution playbook |
+| **👁️ Vision** | Gemini API | Reads screenshots, logos, and charts so I don't have to describe them |
+| **🧠 Memory** | `CLAUDE.md` | Restores project context at the start of every session |
+| **📜 Playbook** | `CLOUD.md` | Keeps project history + my execution rules in one place |
 
-> _"If AI can automate parts of your job, learn how to do it before someone else does."_
+Different tools for different jobs — vision models for reading screens, long-context models for big sessions, coding agents for automations. The tool doesn't matter; the shipped thing matters.
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ What I actually work with
 
-| Project | Description | Tech Stack |
+- **Languages:** HTML · CSS · JavaScript · Python
+- **Data & infra:** Supabase · Railway · Cloudinary
+- **Bots:** Telegram bot (Instagram Reels downloader)
+- **Style:** PWAs · offline-first · terminal / dark aesthetics
+- **Method:** vibe coding — prototype fast, ship, iterate
+
+---
+
+### 🌟 Things I've shipped
+
+| Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [commander-s-checklist](https://github.com/farman024/commander-s-checklist) | Daily discipline system with streak tracking & terminal aesthetic. | HTML, CSS, JS (PWA) |
-| [Hunter-s-Journal](https://github.com/farman024/Hunter-s-Journal) | Solo Leveling-themed trading journal for disciplined traders. | HTML, CSS, JS (PWA) |
-| [Global-War-Room](https://github.com/farman024/Global-War-Room) | Discipline-first web app for traders with mindset tools. | HTML, CSS, JS |
-| [falcon-downloads](https://github.com/farman024/falcon-downloads) | Instagram Reels Download Bot. | Python |
-| [Prayer-Tracker](https://github.com/farman024/Prayer-Tracker) | Private, offline-first Namaz tracker with PDF export. | Vanilla JS (PWA) |
-
----
-
-### 💪 Core Competencies
-
-- **AI & Automation**: Leveraging AI to build intelligent mentors, simulators, and automation bots.
-- **Web Development**: Crafting responsive, installable Progressive Web Apps (PWAs) with a focus on "terminal" and "dark-site" aesthetics.
-- **Productivity & Discipline**: Designing tools that help users maintain streaks, track progress, and achieve their missions.
-- **Vibe Coding**: Rapidly prototyping and iterating on ideas through an intuitive, flow-based development process.
+| [commander-s-checklist](https://github.com/farman024/commander-s-checklist) | Daily discipline system with streak tracking & terminal aesthetic | HTML · CSS · JS (PWA) |
+| [Hunter-s-Journal](https://github.com/farman024/Hunter-s-Journal) | Solo Leveling-themed trading journal for disciplined traders | HTML · CSS · JS (PWA) |
+| [Global-War-Room](https://github.com/farman024/Global-War-Room) | Discipline-first web app for traders with mindset tools | HTML · CSS · JS |
+| [falcon-downloads](https://github.com/farman024/falcon-downloads) | Instagram Reels Download Bot | Python |
+| [Prayer-Tracker](https://github.com/farman024/Prayer-Tracker) | Private, offline-first Namaz tracker with PDF export | Vanilla JS (PWA) |
 
 ---
 
@@ -72,10 +79,8 @@ ACE is my AI coding companion — built on a session-persistence protocol that k
 
 ### 🤝 Connect with me
 
-<div align="center">
-  <a href="https://www.instagram.com/farman_.24._/"><img src="https://img.shields.io/badge/Instagram-0B0804?style=for-the-badge&logo=instagram&logoColor=FBBF24&labelColor=0B0804" alt="Instagram"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/farman024"><img src="https://img.shields.io/badge/Portfolio-0B0804?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0B0804" alt="Portfolio"/></a>
-</div>
+<a href="https://www.instagram.com/farman_.24._/"><img src="https://img.shields.io/badge/Instagram-0B0804?style=for-the-badge&logo=instagram&logoColor=FBBF24&labelColor=0B0804" alt="Instagram"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/farman024"><img src="https://img.shields.io/badge/Portfolio-0B0804?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0B0804" alt="Portfolio"/></a>
 
-> "Building the future, one vibe at a time."
+> "If AI can automate parts of your job, learn how to do it before someone else does."
