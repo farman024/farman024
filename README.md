@@ -17,19 +17,6 @@ No press release here — the honest version:
 > **Currently:** building AI agents & automations · shipping PWAs · learning with sheer consistency.
 
 
-## 🛡️ How I work with AI
-
-ACE is my OpenCode agent — my AI coding companion. Not magic, just good memory:
-
-| What | Powered by | What it actually does |
-| :-- | :-- | :-- |
-| **👁️ Vision** | Gemini API | Reads screenshots, logos, and charts so I don't have to describe them |
-| **🧠 Memory** | `CLAUDE.md` | Restores project context at the start of every session |
-| **📜 Playbook** | `CLOUD.md` | Keeps project history + my execution rules in one place |
-
-Different tools for different jobs — vision models for reading screens, long-context models for big sessions, coding agents for automations. The tool doesn't matter; the shipped thing matters.
-
-
 ## 🛠️ What I actually work with
 
 - **Languages:** HTML · CSS · JavaScript · Python
