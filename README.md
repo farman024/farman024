@@ -55,7 +55,7 @@ Different tools for different jobs — vision models for reading screens, long-c
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=farman024&hide_border=true&background=0B0804&stroke=D97706&ring=FBBF24&fire=F59E0B&currStreakLabel=FBBF24&sideLabels=A8A29E&currStreakNum=FEF3C7&sideNums=FEF3C7&dates=78716C&titleColor=FBBF24&card_width=1180&v=2" alt="streak"/>
   <br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farman024&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=FBBF24&icon_color=F59E0B&text_color=A8A29E&bg_color=0B0804&card_width=500&v=3" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farman024&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=FBBF24&icon_color=F59E0B&text_color=A8A29E&bg_color=0B0804&card_width=500" alt="stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farman024&layout=compact&langs_count=8&hide_border=true&title_color=FBBF24&text_color=A8A29E&bg_color=0B0804&card_width=500" alt="top langs"/>
 </div>
 
